@@ -33,3 +33,4 @@ Run: ./monty [monty_type_file]
 
 Authors
 Klaus KIRA - klauskira07
+Edgar Tuyisenge
